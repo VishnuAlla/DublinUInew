@@ -1,5 +1,5 @@
 var _WM_APP_PROPERTIES = {
-    "activeTheme": "neon",
+    "activeTheme": "mellow-yellow",
     "dateFormat": "",
     "defaultLanguage": "en",
     "displayName": "DublinUInew",
